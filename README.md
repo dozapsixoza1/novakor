@@ -46,6 +46,6 @@ GitHub Actions runs both checks on pushes and pull requests targeting `main`.
 
 ## Launch notes
 
-The contact email in the landing page is a temporary placeholder. Replace it and configure the final domain before public launch. The NOVACORE name and visual identity should be checked for trademark and company-name availability before commercial use.
+The landing page currently has no active contact email. Add a verified contact channel when the corporate mailbox and domain are ready. The NOVACORE name and visual identity should be checked for trademark and company-name availability before commercial use.
 
 The organization chart is a target operating model; it does not imply that every listed role or department is currently staffed.
