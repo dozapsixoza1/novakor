@@ -9,7 +9,7 @@
 6. Add the final custom domain after ownership and DNS are confirmed.
 
 ## Before public launch
-- Replace `hello@novacore.example` in `app/page.tsx` with a verified contact address.
+- Add a verified contact address to the landing page when a real mailbox is ready.
 - Add the final site URL to metadata once the domain is active.
 - Publish appropriate privacy and terms pages before collecting personal data or offering paid services.
 - Verify mobile layout, metadata, contact links, and accessibility after deployment.
